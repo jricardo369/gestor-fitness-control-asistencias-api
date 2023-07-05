@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "spring.mysql.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.control.fitness.application.port.out.jpa.MySQLConfigDB",
+      "sourceMethod": "public javax.sql.DataSource dataSource() "
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

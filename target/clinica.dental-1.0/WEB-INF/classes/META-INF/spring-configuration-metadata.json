@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "spring.mysql.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.dental.application.port.out.jpa.MySQLConfigDB",
+      "sourceMethod": "dataSource()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
